@@ -318,9 +318,6 @@
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yQeVfROuz1mBmnTOxaI7-63" value="describe  security_geofence;&#xa;+------------+---------------+------+-----+---------+----------------+&#xa;| Field      | Type          | Null | Key | Default | Extra          |&#xa;+------------+---------------+------+-----+---------+----------------+&#xa;| id         | bigint        | NO   | PRI | NULL    | auto_increment |&#xa;| company_id | bigint        | NO   | MUL | NULL    |                |&#xa;| name       | varchar(150)  | NO   |     | NULL    |                |&#xa;| lat        | decimal(10,7) | NO   |     | NULL    |                |&#xa;| lng        | decimal(10,7) | NO   |     | NULL    |                |&#xa;| radius_m   | int           | NO   |     | 100     |                |&#xa;| active     | tinyint(1)    | YES  |     | 1       |                |&#xa;+------------+---------------+------+-----+---------+-----------" style="text;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="420" y="365" width="350" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="yQeVfROuz1mBmnTOxaI7-64" value="Security_Geofence" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="410" width="180" height="240" as="geometry" />
         </mxCell>
